@@ -14,7 +14,7 @@ body {
   text-align: center
 }
 
-div {
+body > div {
   width: 50%;
   outline: 1px solid #ccc;
 }
