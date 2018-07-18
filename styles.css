@@ -19,53 +19,102 @@ body > div {
   outline: 1px solid #ccc;
 }
       
-  .circle {
-    fill-opacity: 0;
-    animation-name: fader, pulse;
-    animation-duration: 1s, 1s;
-    animation-timing-function: linear;
-    animation-iteration-count: infinite;
-  }
+.circle {
+  fill-opacity: 0;
+  animation-name: fader, pulse;
+  animation-duration: 1s, 1s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
 
-  .circle1 {
-    animation-delay: 0; 
-  }
+.circle1-1 {
+  animation-delay: 0; 
+}
 
-  .circle2 {
-    animation-delay: .1s; 
-  }
+.circle1-2 {
+  animation-delay: .1s; 
+}
 
-  .circle3 {
-    animation-delay: .2s;
-  }
+.circle1-3 {
+  animation-delay: .2s;
+}
 
-  .circle4 {
-    animation-delay: .3s;
-  }
+.circle1-4 {
+  animation-delay: .3s;
+}
 
-  .circle5 {
-    animation-delay: .4s;
-  }
+.circle1-5 {
+  animation-delay: .4s;
+}
 
-  .circle6 {
-    animation-delay: .5s;
-  }
+.circle1-6 {
+  animation-delay: .5s;
+}
 
-  .circle7 {
-    animation-delay: .6s;
-  }
+.circle1-7 {
+  animation-delay: .6s;
+}
 
-  .circle8 {
-    animation-delay: .7s;
-  }
+.circle1-8 {
+  animation-delay: .7s;
+}
 
-  .circle9 {
-    animation-delay: .8s;
-  }
+.circle1-9 {
+  animation-delay: .8s;
+}
 
-  .circle10 {
-    animation-delay: .9s;
-  }
+.circle1-10 {
+  animation-delay: .9s;
+}
+
+
+.circle2-1 {
+  animation-delay: 0; 
+}
+
+.circle2-2 {
+  animation-delay: .0.08333s; 
+}
+
+.circle2-3 {
+  animation-delay: .166666s;
+}
+
+.circle2-4 {
+  animation-delay: .24999s;
+}
+
+.circle2-5 {
+  animation-delay: .33333s;
+}
+
+.circle2-6 {
+  animation-delay: .41666s;
+}
+
+.circle2-7 {
+  animation-delay: .49999s;
+}
+
+.circle2-8 {
+  animation-delay: .58333s;
+}
+
+.circle2-9 {
+  animation-delay: .66666s;
+}
+
+.circle2-10 {
+  animation-delay: .74999s;
+}
+
+.circle2-11 {
+  animation-delay: .83333s;
+}
+
+.circle2-12 {
+  animation-delay: .91666s;
+}
 
 
 /* The animations */
